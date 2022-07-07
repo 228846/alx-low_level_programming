@@ -2,9 +2,9 @@
 /**
  *_isdigit - function to check a digit
  *@c: an integer arguement
- * Return: success
+ *Return: success
  */
 int _isdigit(int c)
 {
-    return (c >= 0 && c <= 9);
+    return (c >= '0' && c <= '9');
 }

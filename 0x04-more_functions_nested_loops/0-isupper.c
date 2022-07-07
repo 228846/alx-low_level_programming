@@ -10,6 +10,6 @@ int _isupper(int c)
         return (1);
     return (0);
     return(c >= 65 && c <= 90);
-    return(c <= 'A' && c >= 'Z');
+    return(c >= 'A' && c <= 'Z');
 }
 

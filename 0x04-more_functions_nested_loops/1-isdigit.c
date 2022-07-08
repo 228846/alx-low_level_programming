@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- *_isdigit - function to check a digit
- *@c: an integer arguement
- *Return: success
+ * _isdigit - function to check a digit
+ * @c: an integer arguement
+ * Return: success
  */
 int _isdigit(int c)
 {

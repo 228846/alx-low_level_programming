@@ -1,8 +1,8 @@
 #include "main.h"
 /**
-* _isupper -> This is a function to check uppercase
-*@c: an integer paramer
-*Return: something but sucess
+*  _isupper -> This is a function to check uppercase
+* @c: an integer paramer
+* Return: something but sucess
 */
 int _isupper(int c)
 {
